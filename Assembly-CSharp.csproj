@@ -63,9 +63,9 @@
     <Compile Include="Assets\Scripts\AddConstantVelocity.cs" />
     <Compile Include="Assets\Scripts\AddPlayerControllerVelocity.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Jump.cs" />
     <Compile Include="Assets\Scripts\RestartLevelOnCollision.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Shrouk Ragab/Desktop/GRP2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

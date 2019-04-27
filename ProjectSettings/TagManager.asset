@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WindArea
   - Levels
+  - Pick Up
   layers:
   - Default
   - TransparentFX

@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class RestartLevelOnCollision : MonoBehaviour
 {
-    public GameManager gameManager;
     [SerializeField]
     string StrTag;
     private void OnCollisionEnter(Collision collision)
