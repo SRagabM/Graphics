@@ -819,7 +819,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08ccb64bd9cd60a47b905b84a67d05ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  v3Force: {x: 0.3, y: 0, z: 0}
+  v3Force: {x: 0.25, y: 0, z: 0}
   keyPositive: 274
   keyNegative: 273
   countText: {fileID: 586618060}

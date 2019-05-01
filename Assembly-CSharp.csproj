@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AddConstantVelocity.cs" />
     <Compile Include="Assets\Scripts\AddPlayerControllerVelocity.cs" />
+    <Compile Include="Assets\Scripts\dontDestroy.cs" />
     <Compile Include="Assets\Scripts\EndFlag.cs" />
     <Compile Include="Assets\Scripts\EndFlag2.cs" />
     <Compile Include="Assets\Scripts\EndGame.cs" />
