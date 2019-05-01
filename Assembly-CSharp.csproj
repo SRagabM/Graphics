@@ -62,9 +62,14 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AddConstantVelocity.cs" />
     <Compile Include="Assets\Scripts\AddPlayerControllerVelocity.cs" />
+    <Compile Include="Assets\Scripts\EndFlag.cs" />
+    <Compile Include="Assets\Scripts\EndFlag2.cs" />
     <Compile Include="Assets\Scripts\EndGame.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\Jump.cs" />
+    <Compile Include="Assets\Scripts\LevelComplete.cs" />
+    <Compile Include="Assets\Scripts\LevelComplete2.cs" />
     <Compile Include="Assets\Scripts\RestartLevelOnCollision.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\Welcome.cs" />

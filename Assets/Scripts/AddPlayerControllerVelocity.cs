@@ -48,9 +48,9 @@ public class AddPlayerControllerVelocity : MonoBehaviour
     void SetCountText()
     {
         countText.text = " " + count.ToString();
-        if (count >= 12)
-        {
-            //winText.text = "You Win!";
-        }
+        //if (count >= 12)
+        //{
+        //    winText.text = "You Win!";
+        //}
     }
 }

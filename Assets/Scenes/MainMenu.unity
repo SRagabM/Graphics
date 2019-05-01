@@ -284,8 +284,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -28, y: -91}
-  m_SizeDelta: {x: 191.4, y: 62.2}
+  m_AnchoredPosition: {x: -28, y: -92}
+  m_SizeDelta: {x: 191.4, y: 61.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &879687316
 MonoBehaviour:
@@ -512,8 +512,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.041666675}
   m_AnchorMax: {x: 0.9302703, y: 1}
-  m_AnchoredPosition: {x: 41, y: -18.2}
-  m_SizeDelta: {x: 118.9, y: 36.4}
+  m_AnchoredPosition: {x: 43.847046, y: -18.200012}
+  m_SizeDelta: {x: 124.59, y: 36.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1328304353
 MonoBehaviour:
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
+  m_Color: {r: 0.8207547, g: 0.8187565, b: 0.8168832, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -677,8 +677,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -42, y: 203.19998}
-  m_SizeDelta: {x: 605.7, y: 253.8}
+  m_AnchoredPosition: {x: -11, y: 164.2}
+  m_SizeDelta: {x: 605.7, y: 249.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1460205145
 MonoBehaviour:
@@ -734,7 +734,7 @@ GameObject:
   - component: {fileID: 1797714773}
   - component: {fileID: 1797714772}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Coin ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -756,8 +756,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.52125025}
   m_AnchorMax: {x: 0.5, y: 0.52125025}
-  m_AnchoredPosition: {x: -28, y: 18}
-  m_SizeDelta: {x: 356.9, y: 143.1}
+  m_AnchoredPosition: {x: -17.999958, y: -18.100004}
+  m_SizeDelta: {x: 356.9, y: 140.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1797714772
 MonoBehaviour:
@@ -792,7 +792,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: COINBALL
+  m_Text: COIN BALL
 --- !u!222 &1797714773
 CanvasRenderer:
   m_ObjectHideFlags: 0
