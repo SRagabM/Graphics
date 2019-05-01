@@ -71,7 +71,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 498}
   m_MaxSize: {x: 16012, y: 14048}
   vertical: 0
-  controlID: 12
+  controlID: 33
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -237,8 +237,8 @@ MonoBehaviour:
     y: 0
     width: 369
     height: 361
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -264,8 +264,8 @@ MonoBehaviour:
     y: 0
     width: 518
     height: 361
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -298,7 +298,7 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 19}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -408,9 +408,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: c0090000
       m_LastClickedID: 0
-      m_ExpandedIDs: dcb9ffff82bdffff70c0ffff10c3ffffb0c6ffff82cafffff8d8ffffa6dffffffee3ffff42e5ffffe8e7fffffaedfffffaf3ffff1cf4ffff50f5ffffdaf7ffffe6f7fffff8f7ffffbefbffff12340000ec3d0000d4430000e0430000a2440000b8440000044b00009e590000225c0000005e00007e5f0000
+      m_ExpandedIDs: 9c84ffff84f8ffffd6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -465,9 +465,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 257.5, y: 162, z: 0.5}
+    m_Target: {x: -102.57475, y: 6.3062162, z: 19.484154}
     speed: 2
-    m_Value: {x: 257.5, y: 162, z: 0.5}
+    m_Value: {x: -102.57475, y: 6.3062162, z: 19.484154}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -495,13 +495,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.38858953, y: -0.37533972, z: 0.1773035, w: 0.8226067}
+    m_Target: {x: -0.066072, y: 0.750515, z: -0.07591872, w: -0.65314484}
     speed: 2
-    m_Value: {x: 0.38858953, y: -0.37533972, z: 0.1773035, w: 0.8226067}
+    m_Value: {x: -0.066072, y: 0.750515, z: -0.07591872, w: -0.65314484}
   m_Size:
-    m_Target: 1003.92975
+    m_Target: 59.4155
     speed: 2
-    m_Value: 1003.92975
+    m_Value: 59.4155
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -577,20 +577,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Shrouk Ragab\Desktop\GRP2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e0a0000
-    m_LastClickedID: 2622
-    m_ExpandedIDs: 000000008c09000000ca9a3b
+    m_SelectedIDs: 7e090000
+    m_LastClickedID: 2430
+    m_ExpandedIDs: 000000007e09000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -618,7 +618,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008c090000
+    m_ExpandedIDs: 000000007e090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -19,7 +19,7 @@ public class Jump : MonoBehaviour
     {
         //Debug.Log (isGrounded()); 
 
-        if (Input.GetKey(KeyCode.PageUp)&& isGrounded())
+        if (Input.GetKey(KeyCode.Space)&& isGrounded())
         {
             //rb.AddForce(0, 11f, 0);
             Vector3 jumpVelocity = new Vector3(0f, jumpSpeed, 0f);
